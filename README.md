@@ -11,5 +11,5 @@ NetSales = Sales * (1 - Discount/100) (discount as %)
 
 Profit Margin = Profit / Sales
 
-![Dashboard Preview](Screenshot 2025-12-29 171109.png)
+![Dashboard Preview](<Screenshot 2025-12-29 171109.png>)
 
